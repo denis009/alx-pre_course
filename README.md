@@ -1,1 +1,3 @@
-My first Readme
+#About Me
+ALX IS SO COOL
+CURRENTLY LEARNING GIT
